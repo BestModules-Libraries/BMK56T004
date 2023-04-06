@@ -1,0 +1,21 @@
+###################################
+#Classes and Objects(KEYWORD1)
+###################################
+BMK56T004	KEYWORD1
+
+###################################
+#Methods and Functions(KEYWORD2)
+###################################
+getINT	KEYWORD2	
+readWheelValue	KEYWORD2
+readKeyValue	KEYWORD2
+setAllThresholdLevel	KEYWORD2
+setThreshold	KEYWORD2
+getThreshold	KEYWORD2
+
+###################################
+# Constants (LITERAL1)
+###################################
+SUCCESS	LITERAL1
+FAIL	LITERAL1
+BMK56T004_IICADDR	LITERAL1
