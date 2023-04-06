@@ -1,14 +1,14 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BMK54T004_V1.0.png" width="320" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BMK56T004_V1.0.png" width="480" height="480"> 
 </div> 
 
-BMK54T004 
+BMK56T004 
 ===========================================================
 
-The Best Modules BMK54T004 is a shield board for Slide+4-key capacitive touch function, which uses an I2C interface for communication. This document describes the Arduino Lib function of the BMK54T004 and how to install the Arduino Lib. The example demonstrates how to obtain the touch value.
+The Best Modules BMK56T004 is a shield board for Wheel+4-key capacitive touch function, which uses an I2C interface for communication. This document describes the Arduino Lib function of the BMK56T004 and how to install the Arduino Lib. The example demonstrates how to obtain the touch value.
 
 
-This library can be installed via the Arduino Library manager. Search for **BMK54T004 **. 
+This library can be installed via the Arduino Library manager. Search for **BMK56T004 **. 
 
 Repository Contents
 -------------------
@@ -21,7 +21,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BMK54T004 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmk54t004.html#tab-product2 )** - Arduino Library Description.
+* **[BMK56T004 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmk56t004.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
