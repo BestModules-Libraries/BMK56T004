@@ -8,7 +8,7 @@ BMK56T004
 The Best Modules BMK56T004 is a shield board for Wheel+4-key capacitive touch function, which uses an I2C interface for communication. This document describes the Arduino Lib function of the BMK56T004 and how to install the Arduino Lib. The example demonstrates how to obtain the touch value.
 
 
-This library can be installed via the Arduino Library manager. Search for **BMK56T004 **. 
+This library can be installed via the Arduino Library manager. Search for **BMK56T004**. 
 
 Repository Contents
 -------------------
