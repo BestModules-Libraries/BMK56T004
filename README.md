@@ -21,12 +21,16 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BMK56T004 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmk56t004.html#tab-product2 )** - Arduino Library Description.
+* **[BMK56T004 Arduino Library Description]( https://www.bestmodulescorp.com/bmk56t004.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
 
-* **V1.0.1** - Initial public release.
+* **V1.0.1**  
+&emsp;&emsp;- Initial public release.
+* **V1.0.2**  
+&emsp;&emsp;- Change the contents of the function "setThreshold" : The sensitivity of the array is 14 bytes.  
+&emsp;&emsp;- Correction section comments.
 
 License Information
 -------------------
