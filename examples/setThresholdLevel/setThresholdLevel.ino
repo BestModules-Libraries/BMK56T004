@@ -11,7 +11,6 @@ BMK56T004     BMK56(2,&Wire);//intPin,Please comment out this line of code if yo
 //BMK56T004     BMK56(22,&Wire1);//Please uncomment out this line of code if you use Wire1 on BMduino
 //BMK56T004     BMK56(25,&Wire2);//Please uncomment out this line of code if you use Wire2 on BMduino
 uint8_t Threshold[12]={0};
-uint8_t Threshold1[12]={0};
 void setup() 
 {
   Serial.begin(9600);

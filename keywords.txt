@@ -6,13 +6,17 @@ BMK56T004	KEYWORD1
 ###################################
 #Methods and Functions(KEYWORD2)
 ###################################
-getINT	KEYWORD2	
+getFWVer	KEYWORD2
+getINT	KEYWORD2
+readKeyValue	KEYWORD2	
 readWheelValue	KEYWORD2
-readKeyValue	KEYWORD2
-setAllThresholdLevel	KEYWORD2
-setThreshold	KEYWORD2
 getThreshold	KEYWORD2
-
+setThreshold	KEYWORD2
+setAllThresholdLevel	KEYWORD2
+setLedMode	KEYWORD2
+getLedMode	KEYWORD2
+writeLed	KEYWORD2
+readLed	KEYWORD2
 ###################################
 # Constants (LITERAL1)
 ###################################
